@@ -11,6 +11,8 @@ A source-available dieline prototyping tool for print & packaging — parametric
 **盒型**
 - 反向插舌盒（RTE, Reverse Tuck End）
 - 天地盒三件套（Telescope Box）：上蓋／下盒／平台式內襯
+- RSC 平口对封
+
 
 **特點**
 - 紙厚補償：參數隨紙厚即時重算（如插舌內縮量）
